@@ -8,7 +8,7 @@ This repository contain all the scripts we used to organize CMI's actigraphy dat
 
 To organize the data, run the scripts in the folowwing order:
 
-**1. organize_files.ipynb**
+1. **organize_files.ipynb**
 
    |-> it will organize the "data_cleaning" files from all raters into one single file
 
