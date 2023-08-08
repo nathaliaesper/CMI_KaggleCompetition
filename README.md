@@ -1,8 +1,7 @@
 # CMI Kaggle Competition Scripts
 
-----
 
-This repository contain all the scripts we used to organize CMI's actigraphy data to the Kaggle competition that we hosted.
+This repository contain all the scripts we used to organize CMI's actigraphy data for the Kaggle competition that we hosted.
 
 ----
 
